@@ -1,15 +1,15 @@
 ![ikram](https://user-images.githubusercontent.com/54985306/132635647-52ae10f1-cca9-46ff-92fc-8b112e0a325b.png)
-<h4>Muhammad Ikram Ulhaq</h4>
+<h3>Muhammad Ikram Ulhaq</h3>
 Flutter Developer
-<h3>EDUCATION</h3>
-<h2>BSCS from FUUAST, Islamabad</h2>
+<h4>EDUCATION</h4>
+<h5>BSCS from FUUAST, Islamabad</h5>
 2016 - 2020
 Graduated with CGPA 3.59
-<h3>WORK EXPERIENCE</h3>
-<h2>Softech Business Services, Islamabad</h2>
+<h4>WORK EXPERIENCE</h4>
+<h5>Softech Business Services, Islamabad</h5>
 Mobile App Developer (Android & iOS) 
 Jan(2021)–Present
-<h1>Responsibilities:</h1>
+<h5>Responsibilities:</h5>
 - Development, Deployment and management of Android and iOS applications using cross platform (Flutter)
 - Leading junior Flutter Developers and working synchronously
 
