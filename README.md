@@ -8,7 +8,7 @@ iqramulhaq00@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/em-ikram-a718a9145/
 <h4>Whatsapp</h4>
-![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945647-519378f9-1178-49ce-a1a5-e6eecbe4e5c8.jpeg)
+![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945694-2b7d0247-04dd-4352-9afc-eb0f1a08965e.jpeg)
 
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
