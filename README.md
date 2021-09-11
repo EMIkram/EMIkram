@@ -1,4 +1,4 @@
-![ikram](https://user-images.githubusercontent.com/54985306/132635647-52ae10f1-cca9-46ff-92fc-8b112e0a325b.png)
+![profile header jpg](https://user-images.githubusercontent.com/54985306/132941381-9fee61a2-a721-4236-86ec-035de9363a36.jpg)
 <h3>Muhammad Ikram Ulhaq</h3>
 Flutter Developer
 <h4>EDUCATION</h4>
