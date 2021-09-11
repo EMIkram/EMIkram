@@ -6,15 +6,17 @@
 <h5>BSCS from FUUAST, Islamabad</h5>
 2016 - 2020
 Graduated with CGPA 3.59
+
 <h4>WORK EXPERIENCE</h4>
-<h5>Softech Business Services, Islamabad</h5>
-Lead Mobile App Developer (Android & iOS) 
+<h5>Lead Mobile App Developer (Android & iOS) </h5>
+Softech Business Services, Islamabad
 Jan(2021)–Present
 <h5>Responsibilities:</h5>
-- Development, Deployment and management of Android and iOS applications using cross platform (Flutter)
+- Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
 - Leading junior Flutter Developers and working synchronously
-<h5>Straight up technologies, Rawalpindi</h5>
-Intern Flutter Developer 
+- 
+<h5>Intern Flutter Developer</h5>
+Straight up technologies, Rawalpindi
 Oct(2020)–Dec(2020)
 
 <h4>Skills</h4>
@@ -25,11 +27,47 @@ Oct(2020)–Dec(2020)
 <h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
 
 <h4>Hands on experiance</h4>
-Designing, Building and Deploying scalable Mobile Applications.
-State management using provider,GetX and setState.
-MVC/MVVM pattrens.
-Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).
-Streams, Futures and asyncrounous programming.
-Location Services and Google Maps.
-Creating and Deploying custom plugin on Pub.dev.
+Designing, Building and Deploying scalable Mobile Applications.<br></br>
+State management using provider,GetX and setState.<br></br>
+MVC/MVVM pattrens.<br></br>
+Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
+Streams, Futures and asyncrounous programming.<br></br>
+Location Services and Google Maps.<br></br>
+Creating and Deploying custom plugin on Pub.dev.<br></br>
+Google Play Services such as Admob, In App Purchases and few more
+
+<h4>Projects</h4>
+
+<h5>o LSUK</h5>
+UK based language interpretation service provider App where registered interpreters can see and bid for available jobs.<br></br>
+<h6>Links</h6><br></br>
+o https://play.google.com/store/apps/details?id=com.org.lsuk<br></br>
+o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
+
+<h5>o Treats Bristol</h5>
+Bristol(UK) based restaurant app for customers and delivery boys.<br></br>
+<h6>Links</h6><br></br>
+o https://play.google.com/store/apps/details?id=com.softechbusinessservices.www.my_treats<br></br>
+o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
+
+<h5>o My Family Tutor</h5>
+Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.<br></br>
+<h6>Links</h6><br></br>
+o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
+o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
+
+
+o Load a Trash
+o https://play.google.com/store/apps/details?id=com.softechbu
+sinessservices.waste_management_app
+o https://apps.apple.com/us/app/load-a-trash/id1541996261
+o Calm and Breath
+o https://play.google.com/store/apps/details?id=com.softechbu
+sinessservices.breathing_exercisez
+o Whatsinit
+o https://play.google.com/store/apps/details?id=com.twodoclt
+d.whatsinit
+o AMS using Face detection and Recognition and QR
+o Video Calling App using Agora SDK
+o Adenture Eye (FYP)
 
