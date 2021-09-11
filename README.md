@@ -8,8 +8,11 @@ iqramulhaq00@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/em-ikram-a718a9145/
 <h4>Whatsapp</h4>
-
+Scan the code 
 ![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945792-3f4bf753-fad2-4077-b458-c1af12e0c11e.jpg)
+
+Or open this link from your smartphone
+https://wa.me/qr/LDG5MI433M46P1
 
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
@@ -27,23 +30,6 @@ Responsibilities:<br></br>
 <h5>Intern Flutter Developer</h5>
 Straight up technologies, Rawalpindi
 Nov(2020)–Nov(2020)
-
-<h3>Skills</h3>
-<h5>Flutter Mobile App development(Android, iOS)</h5>
-<h5>Firebase</h5>
-<h5>Version Controll(git/github)</h5>
-<h5>Rest APIs</h5>
-<h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
-
-<h3>Hands on experiance</h3>
-Designing, Building and Deploying scalable Mobile Applications.<br></br>
-State management using provider,GetX and setState.<br></br>
-MVC/MVVM pattrens.<br></br>
-Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
-Streams, Futures and asyncrounous programming.<br></br>
-Location Services and Google Maps.<br></br>
-Creating and Deploying custom plugin on Pub.dev.<br></br>
-Google Play Services such as Admob, In App Purchases and few more
 
 <h3>Projects</h3>
 
@@ -87,3 +73,22 @@ o https://apps.apple.com/us/app/load-a-trash/id1541996261<br></br>
 <h5>o Video Calling App using Agora SDK</h5>
 
 <h5>o Adenture Eye(a tourism app for adventure FYP)K</h5>
+
+<h3>Skills</h3>
+<h5>Flutter Mobile App development(Android, iOS)</h5>
+<h5>Firebase</h5>
+<h5>Version Controll(git/github)</h5>
+<h5>Rest APIs</h5>
+<h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
+
+<h3>Hands on experiance</h3>
+Designing, Building and Deploying scalable Mobile Applications.<br></br>
+State management using provider,GetX and setState.<br></br>
+MVC/MVVM pattrens.<br></br>
+Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
+Streams, Futures and asyncrounous programming.<br></br>
+Location Services and Google Maps.<br></br>
+Creating and Deploying custom plugin on Pub.dev.<br></br>
+Google Play Services such as Admob, In App Purchases and few more
+
+
