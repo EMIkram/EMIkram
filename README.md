@@ -20,7 +20,7 @@ Straight up technologies, Rawalpindi
 Oct(2020)–Dec(2020)
 
 <h4>Skills</h4>
-<h5>Flutter</h5>
+<h5>Flutter Mobile App development(Android, iOS)</h5>
 <h5>Firebase</h5>
 <h5>Version Controll(git/github)</h5>
 <h5>Rest APIs</h5>
@@ -39,21 +39,21 @@ Google Play Services such as Admob, In App Purchases and few more
 <h4>Projects</h4>
 
 <h5>o LSUK</h5>
-UK based language interpretation service provider App where registered interpreters can see and bid for available jobs.<br></br>
-<h6>Links</h6><br></br>
-o https://play.google.com/store/apps/details?id=com.org.lsuk<br></br>
+UK based language interpretation service provider App where registered interpreters can see and bid for available jobs.
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.org.lsuk
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
 <h5>o Treats Bristol</h5>
-Bristol(UK) based restaurant app for customers and delivery boys.<br></br>
-<h6>Links</h6><br></br>
-o https://play.google.com/store/apps/details?id=com.softechbusinessservices.www.my_treats<br></br>
+Bristol(UK) based restaurant app for customers and delivery boys.
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.softechbusinessservices.www.my_treats
 o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
 
 <h5>o My Family Tutor</h5>
-Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.<br></br>
-<h6>Links</h6><br></br>
-o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
+Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
 
