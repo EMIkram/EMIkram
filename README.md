@@ -20,7 +20,7 @@ Graduated with CGPA 3.59
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
 Softech Business Services, Islamabad
 Jan(2021)–Present
-<h5>Responsibilities:</h5>
+Responsibilities:<br></br>
 - Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
 - Leading junior Flutter Developers and working synchronously
 - 
