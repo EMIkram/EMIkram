@@ -10,8 +10,8 @@ https://www.linkedin.com/in/em-ikram-a718a9145/
 
 <h4>Whatsapp</h4>
 
+![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945792-3f4bf753-fad2-4077-b458-c1af12e0c11e.jpg)
 
-![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945723-9160878c-1192-48cc-893f-f4842028e8bf.jpeg)
 
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
