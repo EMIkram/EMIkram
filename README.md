@@ -4,7 +4,7 @@
 <!-- Flutter Developer -->
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
-2016 - 2020
+Sep(2016) - Oct(2020)
 Graduated with CGPA 3.59
 
 <h3>WORK EXPERIENCE</h3>
@@ -17,7 +17,7 @@ Jan(2021)–Present
 - 
 <h5>Intern Flutter Developer</h5>
 Straight up technologies, Rawalpindi
-Oct(2020)–Dec(2020)
+Nov(2020)–Nov(2020)
 
 <h3>Skills</h3>
 <h5>Flutter Mobile App development(Android, iOS)</h5>
