@@ -1,4 +1,4 @@
-<div style="background-color:#33475b">
+<div >
 ![profile header jpg](https://user-images.githubusercontent.com/54985306/132941381-9fee61a2-a721-4236-86ec-035de9363a36.jpg)
 <h3>Muhammad Ikram Ulhaq</h3>
 Flutter Developer
