@@ -46,6 +46,8 @@ o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
 <h5>o Treats Bristol</h5>
 
+Bristol(UK) based restaurant app for customers and delivery boys.
+
 ![1024 3](https://user-images.githubusercontent.com/54985306/133069877-dd2227f4-4873-42d7-bdb1-48074937fd82.png) 
 <br></br>
 App ScreenShots
@@ -55,9 +57,6 @@ App ScreenShots
 ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 44](https://user-images.githubusercontent.com/54985306/133070283-d76e28bf-98c1-41e9-a3d9-2f2d69382f5c.png)
 ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 09 26](https://user-images.githubusercontent.com/54985306/133070286-c86bcb7c-73ee-4d3c-afd3-014904c1af4e.png)
 
-
-
-Bristol(UK) based restaurant app for customers and delivery boys.
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.softechbusinessservices.www.my_treats<br></br>
 o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
