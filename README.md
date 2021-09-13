@@ -31,7 +31,7 @@ Responsibilities:<br></br>
 - 
 <h5>Intern Flutter Developer</h5>
 Straight up technologies, Rawalpindi
-Nov(2020)–Nov(2020)
+Nov(2020)–Dec(2020)
 
 <h3>Projects</h3>
 
