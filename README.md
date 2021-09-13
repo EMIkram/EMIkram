@@ -95,13 +95,9 @@ App ScreenShots
 <br></br>
 
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031674-c9ff010c-b522-4666-bbcd-a2ca82ea0a03.png)
-
 ![Screenshot_1629724981](https://user-images.githubusercontent.com/54985306/133031675-e5d15961-4c87-43fc-b190-fdbdd4c100fd.png)
-
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/54985306/133031678-f24393f0-fb65-49ee-923e-6053854cbed8.png)
-
 ![Screenshot_1629725024](https://user-images.githubusercontent.com/54985306/133031681-a7630a3b-66e6-4f44-bbb7-d338f186611c.png)
-
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/54985306/133031685-f2999661-74a1-49a9-9e0b-bbc5412d8592.png)
 
 
