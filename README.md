@@ -36,6 +36,9 @@ Nov(2020)–Dec(2020)
 <h3>Projects</h3>
 
 <h5>o LSUK</h5>
+
+![Icon-App-40x40@2x](https://user-images.githubusercontent.com/54985306/133071085-a992c448-af61-40e2-a777-083de383b531.png)
+
 UK based language interpretation service provider App where registered interpreters can see and bid for available jobs.
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.org.lsuk<br></br>
@@ -81,15 +84,24 @@ o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
 <h5>o Whatsinit</h5>
+
+![80](https://user-images.githubusercontent.com/54985306/133070818-3ecec206-6820-4fc3-be71-51717ccd0e3c.png)
+
+
 Monthly subscription based App in which you can search for any food item to see what incredients it has.
 (Still in beta testing)
 <br></br>
 App ScreenShots
 <br></br>
+
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031674-c9ff010c-b522-4666-bbcd-a2ca82ea0a03.png)
+
 ![Screenshot_1629724981](https://user-images.githubusercontent.com/54985306/133031675-e5d15961-4c87-43fc-b190-fdbdd4c100fd.png)
+
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/54985306/133031678-f24393f0-fb65-49ee-923e-6053854cbed8.png)
+
 ![Screenshot_1629725024](https://user-images.githubusercontent.com/54985306/133031681-a7630a3b-66e6-4f44-bbb7-d338f186611c.png)
+
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/54985306/133031685-f2999661-74a1-49a9-9e0b-bbc5412d8592.png)
 
 
@@ -97,6 +109,9 @@ App ScreenShots
 o https://play.google.com/store/apps/details?id=com.twodoclt<br></br>
 
 <h5>o Load a Trash</h5>
+
+![80](https://user-images.githubusercontent.com/54985306/133070945-958d6d69-9dd5-46eb-8a19-8e1d24697ceb.png)
+
 UK based app where customers can upload snaps od their useless trash or machinary and buyers can pay to them using in App payment while picking up the trash.
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.softechbusinessservices.waste_management_app<br></br>
