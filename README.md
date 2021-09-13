@@ -47,9 +47,10 @@ Bristol(UK) based restaurant app for customers and delivery boys.
 o https://play.google.com/store/apps/details?id=com.softechbusinessservices.www.my_treats<br></br>
 o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
 
-![76 copy](https://user-images.githubusercontent.com/54985306/133069587-a3f67dc9-2e07-4647-9ab6-3a908df0de9e.png)
 
 <h5>o My Family Tutor</h5>
+![76 copy](https://user-images.githubusercontent.com/54985306/133069587-a3f67dc9-2e07-4647-9ab6-3a908df0de9e.png)
+
 Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.
 <br></br>
 App ScreenShots
