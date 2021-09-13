@@ -52,7 +52,8 @@ Education purpose app launched for few cities of pakistan where both tutors and 
 
 App ScreenShots
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 14](https://user-images.githubusercontent.com/54985306/133066463-52923177-74bd-40e5-a5d1-637a1ea291e3.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133066553-ff5cd5d7-f72f-4b32-b3de-bfae4e03461e.png)
+
 
 
 
