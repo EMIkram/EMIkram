@@ -56,6 +56,15 @@ o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 <h5>o Whatsinit</h5>
 Monthly subscription bases App in which you can search for any food item to see what incredients it has.
 (Still in beta testing)
+
+App ScreenShots
+
+![Screenshot_1629725097](https://user-images.githubusercontent.com/54985306/133031288-93ba75da-c3c2-42ae-87ef-7124d11bbfe9.png)
+![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031260-f0ae43dc-b3c3-4efb-bd0e-20716eb2cc0b.png)
+![Screenshot_1629724981](https://user-images.githubusercontent.com/54985306/133031266-94786df3-c61d-462d-88f8-4812d26d6932.png)
+![Screenshot_1629724992](https://user-images.githubusercontent.com/54985306/133031271-02a1b668-f9c1-42bc-9483-2264979dbee9.png)
+![Screenshot_1629725024](https://user-images.githubusercontent.com/54985306/133031273-950a7522-462f-437d-b7af-5073474d21e7.png)
+
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.twodoclt<br></br>
 
