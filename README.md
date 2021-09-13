@@ -1,3 +1,5 @@
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133066771-e15d793c-1855-4615-952b-04ed7c5bfa92.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133066790-1afb6184-5d98-42f3-b36d-779ebcfdaf21.png)
 <!-- ![profile header jpg1](https://user-images.githubusercontent.com/54985306/132942703-ecf1b0e7-3c70-4c37-924a-d287b9920fcd.jpg) -->
 ![profile header with skills v2](https://user-images.githubusercontent.com/54985306/132958701-5a6b93c3-a9b3-4a33-9297-2c5adbadfdea.jpg)
 <!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg) -->
@@ -52,7 +54,7 @@ Education purpose app launched for few cities of pakistan where both tutors and 
 
 App ScreenShots
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133066553-ff5cd5d7-f72f-4b32-b3de-bfae4e03461e.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133066805-8f64f84a-bcac-40e5-ba0c-e78e4960c404.png)
 
 
 
