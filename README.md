@@ -49,6 +49,13 @@ o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
 
 <h5>o My Family Tutor</h5>
 Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.
+
+App ScreenShots
+
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 14](https://user-images.githubusercontent.com/54985306/133066463-52923177-74bd-40e5-a5d1-637a1ea291e3.png)
+
+
+
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
