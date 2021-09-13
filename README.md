@@ -49,7 +49,7 @@ o https://apps.apple.com/us/app/my-treats/id1553674065<br></br>
 
 <h5>o My Family Tutor</h5>
 Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.
-
+<br></br>
 App ScreenShots
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/54985306/133067322-0a842483-f055-4cc0-908c-a5cf43ef43d8.png)
@@ -67,7 +67,7 @@ o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 <h5>o Whatsinit</h5>
 Monthly subscription bases App in which you can search for any food item to see what incredients it has.
 (Still in beta testing)
-
+<br></br>
 App ScreenShots
 
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031674-c9ff010c-b522-4666-bbcd-a2ca82ea0a03.png)
