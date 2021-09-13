@@ -53,12 +53,6 @@ Education purpose app launched for few cities of pakistan where both tutors and 
 o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
-<h5>o My Family Tutor</h5>
-Education purpose app launched for few cities of pakistan where both tutors and students can engage for getting their tution.
-<h6>Links</h6>
-o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
-o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
-
 <h5>o Whatsinit</h5>
 Monthly subscription bases App in which you can search for any food item to see what incredients it has.
 (Still in beta testing)
