@@ -44,11 +44,12 @@ o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 App ScreenShots
 <br></br>
 
-![shirleys 1](https://user-images.githubusercontent.com/54985306/154804631-91afdd7c-bdfb-4019-959d-4869f91fa7f7.jpeg)
-![shirleys 2](https://user-images.githubusercontent.com/54985306/154804637-844efdda-3a25-4135-93b7-7f2d86beafa9.jpeg)
-![shirleys 3](https://user-images.githubusercontent.com/54985306/154804640-785a0845-a54a-43d1-8d11-c5804875f9f0.jpeg)
-![shirleys 4](https://user-images.githubusercontent.com/54985306/154804641-53a61ec3-cf21-49d4-a7b1-a85a121ec6c8.jpeg)
-![shirleys 5](https://user-images.githubusercontent.com/54985306/154804644-ce78f7ab-606c-4eb4-9465-a39523a2aa3a.jpeg)
+![shirleys 4-min](https://user-images.githubusercontent.com/54985306/154804967-9e6af006-6107-472c-8b36-bf80a9a91923.jpeg)
+![shirleys 5-min](https://user-images.githubusercontent.com/54985306/154804973-753b03e9-1b07-4db6-ae0a-05b593f8754c.jpeg)
+![shirleys 1-min](https://user-images.githubusercontent.com/54985306/154804975-83989997-99b6-488d-b0a8-0e91d659ba24.jpeg)
+![shirleys 2-min](https://user-images.githubusercontent.com/54985306/154804976-b08ef0c4-9ca8-4ec6-8df2-f55e90921c42.jpeg)
+![shirleys 3-min](https://user-images.githubusercontent.com/54985306/154804979-c84553c5-cb11-4743-84d9-642b1f230726.jpeg)
+
 
 <h5>o LSUK</h5>
 
