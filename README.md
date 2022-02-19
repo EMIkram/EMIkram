@@ -28,12 +28,30 @@ Jan(2021)–Present<br></br>
 Responsibilities:<br></br>
 - Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
 - Leading junior Flutter Developers and working synchronously
-- 
-<h5>Intern Flutter Developer</h5>
-Straight up technologies, Rawalpindi
-Nov(2020)–Dec(2020)
+
 
 <h3>Projects</h3>
+
+<h5>o Shirleys</h5>
+Shieleys is e-commerce based clothing app.
+
+
+![1024](https://user-images.githubusercontent.com/54985306/154803962-3e4b7409-e9d3-4903-a6fb-b5db358a0c3a.png)
+
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
+o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
+<br></br>
+App ScreenShots
+<br></br>
+
+![shirleys1](https://user-images.githubusercontent.com/54985306/154803663-f44b19d5-e90e-4ccb-bc83-06121588624e.jpg)
+![shirleys 2](https://user-images.githubusercontent.com/54985306/154803653-ec97cc82-ba96-481e-9236-4d9daf258bbb.jpg)
+![shirleys 3](https://user-images.githubusercontent.com/54985306/154803654-d76ad855-2c91-4b23-b95f-6dd35828572f.jpg)
+![shirleys 4](https://user-images.githubusercontent.com/54985306/154803656-7a4ee2be-39cd-4f05-b066-5d6d1cecbead.jpg)
+![shirleys 5](https://user-images.githubusercontent.com/54985306/154803658-c7b8dad2-0fac-416f-a284-c57baa5d4d9d.jpg)
+![shirleys 6](https://user-images.githubusercontent.com/54985306/154803660-57f78b19-6875-4824-bc5b-c3d98d0fb7ea.jpg)
+![shirleys 7](https://user-images.githubusercontent.com/54985306/154803662-ca931555-c46e-43fa-b7de-f76107d32aa0.jpg)
 
 <h5>o LSUK</h5>
 
