@@ -24,7 +24,7 @@ Graduated with CGPA 3.59
 <h3>WORK EXPERIENCE</h3>
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
 Heuristify, Islamabad
-March(2022)–Present<br></br>
+March(2022)–Present</br>
 <h5>Mobile App Developer (Android & iOS) </h5>
 Softech Business Services, Islamabad
 Nov(2020)–Feb(2022)<br></br>
